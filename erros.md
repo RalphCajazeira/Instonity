@@ -51,6 +51,10 @@
 
 - **Erro ao Editar Subproduto:**
   - Ao editar um subproduto no orçamento, o campo de comprimento está mudando automaticamente para o valor 2, sem intervenção do usuário.
+  - ![image](https://github.com/user-attachments/assets/70b53c23-f0de-44f6-900e-2a384703d3a6)
+  - ![image](https://github.com/user-attachments/assets/cb66a907-96c5-4991-9641-13461b3adae6)
+
+
 
 - **Ordem das Colunas ao Lançar Subproduto:**
   - A ordem das colunas está invertida ao lançar um subproduto. A coluna de largura está aparecendo antes da coluna de comprimento.
