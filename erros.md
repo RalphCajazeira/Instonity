@@ -34,6 +34,8 @@
 
 - **Campos de Margem de Lucro e Preço de Venda:**
   - No cadastro de Produtos para Revenda estão faltando os campos de margem de lucro e preço de venda. Adicionar esses campos para completar as informações.
+  - ![image](https://github.com/user-attachments/assets/a2ecdde8-e374-4a5f-9350-1a81ec26f6ef)
+
 
 ---
 
@@ -47,6 +49,8 @@
 
 - **Adicionar Beneficiamento:**
   - Na parte de adicionar beneficiamento ao orçamento, deve ser possível apenas pesquisar pelo nome e inserir a quantidade desejada. O tipo de unidade (m, m² ou unidade) já é definido no cadastro de beneficiamento.
+  - ![Captura de tela 2024-10-04 160305](https://github.com/user-attachments/assets/9ed571c6-809e-4cf1-bcf3-3192d12c72c7)
+
   - Adicionar informações como preço unitário e preço total conforme a quantidade inserida para facilitar a visualização e cálculo do valor total do beneficiamento no orçamento.
 
 - **Erro ao Editar Subproduto:**
@@ -58,3 +62,5 @@
 
 - **Ordem das Colunas ao Lançar Subproduto:**
   - A ordem das colunas está invertida ao lançar um subproduto. A coluna de largura está aparecendo antes da coluna de comprimento.
+  - ![Captura de tela 2024-10-04 160157](https://github.com/user-attachments/assets/8cba08a0-8188-4c67-8f1f-5de5645ecc31)
+
