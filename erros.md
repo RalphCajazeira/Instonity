@@ -66,3 +66,4 @@
   - A ordem das colunas está invertida ao lançar um subproduto. A coluna de largura está aparecendo antes da coluna de comprimento.
   - ![Captura de tela 2024-10-04 160157](https://github.com/user-attachments/assets/8cba08a0-8188-4c67-8f1f-5de5645ecc31)
 
+
