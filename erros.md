@@ -52,6 +52,8 @@
   - ![Captura de tela 2024-10-04 160305](https://github.com/user-attachments/assets/9ed571c6-809e-4cf1-bcf3-3192d12c72c7)
 
   - Adicionar informações como preço unitário e preço total conforme a quantidade inserida para facilitar a visualização e cálculo do valor total do beneficiamento no orçamento.
+  - ![image](https://github.com/user-attachments/assets/4765a55b-bd78-4bd1-8976-befa6baa5f2a)
+
 
 - **Erro ao Editar Subproduto:**
   - Ao editar um subproduto no orçamento, o campo de comprimento está mudando automaticamente para o valor 2, sem intervenção do usuário.
